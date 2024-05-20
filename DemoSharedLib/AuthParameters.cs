@@ -1,0 +1,10 @@
+﻿namespace DemoSharedLib;
+
+public class AuthParameters
+{
+    public const string Issuer = "DemoSession";
+
+    public const string Audience = "DemoSession";
+
+    public const string SecurityKey = "cFMFGU0hSGzJTklwrkVkUgV05rnKsTJTrxd/JO38/ENfPAY4DHuzgJGDJFjA+5TM/VojOhSY6Szg8KUFBWNvMR2GzVP7wfR8p3eAjZSIFKNc+bmtak4goqq4Yt6etN5XVYFHO5dpyJtLoGiaNfHKWlLLkxc03KsBxHmemXL52vcUMB5YMIq9JtpRAbShu6O4NzvOOZdM9nM5smziMHt3axhq+LQDuQ7SvxJPGN4vW5HvmeFBNXnpXhk8TQpfoJR0nQ1BegZuy0oiDBObx5ccj0TojppRJB0Z2GkKvWMPouJpPwwk8WotCtC+tzrRhBfS8nxQhfA27R5Kuv2atNU68XHUeNRyuPta3eW2ktBd83PZ6LcyBgAmsChUVuPFafHxpJvtXEotQnWPwXunJBCYPUeGhlHMUJIJfvWNptsVutTBjVVYarrRdjI1sF6UDgVrMWEb94ZN8rzlHPtNeFRbI9vrACk6qsQx8U5KVINp5Jc4bi0t3MTNBtQTkoAfRPHAqPWhf0G9jqLcMOXRAIgw4OO4Ft8gLHpuJTS6MU3j/fz9uAIxMC3c+geEr8eNnEnOSTkHcPEZrOQ5zjWNioyAg83G7wQ3ji6RiNZwCRyeFMRgGjWPphxXV1XJ6Z4AmyNEU6h2pF+hWNP1eTJF/w1g4ztNcnJC/5ZmTCvq+n1kfZg=";
+}

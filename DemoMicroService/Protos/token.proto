@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "DemoMicroService";
+
+package TokenPackage;
+
+service TokenService {
+  rpc Token (TokenRequest) returns (TokenReply);
+}
+
+message TokenRequest {
+  string username = 1;
+  string password = 2;
+}
+
+message TokenReply {
+  string token = 1;
+}
