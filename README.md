@@ -7,9 +7,6 @@ This project contains practical tips and best practices for API development, ins
 This repository provides insights and guidelines on:
 
 - Following RESTful principles
-- Using standard HTTP methods (GET, POST, PUT, DELETE)
-- Keeping APIs stateless
-- Utilizing resources and URIs effectively
 - Implementing versioning
 - Securing your API
 - Using OpenAPI and Swagger tools
@@ -18,7 +15,6 @@ This repository provides insights and guidelines on:
 - Health checks
 - Providing an API dashboard
 - Using webhooks
-- Implementing API retry mechanisms
 - Optimizing microservices with gRPC
 - Unit testing
 
